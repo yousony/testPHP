@@ -3,7 +3,7 @@
 //require_once 'functionControllers.php';
 
 include '../model/config.php';
-include '../controller/functionController.php';
+include '../controller/functionControllers.php';
 
 
 echo '<br>';
